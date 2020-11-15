@@ -1,6 +1,3 @@
-# dockerapp
-Project source code for James Lee's Docker course.
-
-Check out our latest DevOps PDF book.
-
-https://www.level-up.one/devops-pdf-book/
+# Dockerapp
+A short excercise in continuous integration with Circleci  
+using source code for James Lee's Docker course.
